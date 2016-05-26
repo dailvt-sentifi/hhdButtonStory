@@ -1,5 +1,6 @@
 import React from 'react';
 import { storiesOf, action } from '@kadira/storybook';
+// require('scss/main.scss');
 
 storiesOf('Button', module)
   .add('with a text', () => (
